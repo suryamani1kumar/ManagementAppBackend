@@ -138,7 +138,7 @@ const getData = async (req: Request, res: Response) => {
       gainpercentage: `${winPercentageonGain.toFixed(2)}% `,
       winPercentage: `${winPercentage.toFixed(2)}% `,
       ReturnHistory: Return,
-      total: getdata,
+      total: getdata.reverse(),
     };
     res.send(object);
   } catch (error: any) {
