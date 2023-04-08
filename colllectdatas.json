@@ -1,0 +1,2240 @@
+[{
+  "_id": {
+    "$oid": "63d25c42a037c961716de50d"
+  },
+  "series": "PakW tour of AusW",
+  "match": "PakW vs AusW",
+  "time": "1:35PM",
+  "invesment": 125,
+  "returns": 0,
+  "numberOfPlayer": 3,
+  "created": "own",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674730562861"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674730562861"
+    }
+  },
+  "__v": 0,
+  "date": "26th Jan 2023"
+},{
+  "_id": {
+    "$oid": "63d25f7396ca67d1dca58d1d"
+  },
+  "series": "PakW tour of AusW",
+  "match": "Pak vs AusW",
+  "time": "1:35PM",
+  "invesment": 89,
+  "returns": 0,
+  "numberOfPlayer": 4,
+  "created": "own",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674731379097"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674731379097"
+    }
+  },
+  "__v": 0,
+  "date": "26th Jan 2023"
+},{
+  "_id": {
+    "$oid": "63d25fa796ca67d1dca58d1f"
+  },
+  "series": "PakW tour of AusW",
+  "match": "Pak vs AusW",
+  "time": "1:35PM",
+  "invesment": 89,
+  "returns": 330,
+  "numberOfPlayer": 4,
+  "created": "own",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674731431935"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674731431935"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d3e500dfab2dc20c0fb61d"
+  },
+  "series": "Super Smash T20",
+  "match": "CTB Vs CS",
+  "time": "7:30PM",
+  "invesment": 125,
+  "returns": 0,
+  "numberOfPlayer": 3,
+  "created": "mix",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674831104655"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674831104655"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d3e52fdfab2dc20c0fb61f"
+  },
+  "series": "Super Smash T20",
+  "match": "CTB Vs CS",
+  "time": "7:30PM",
+  "invesment": 89,
+  "returns": 330,
+  "numberOfPlayer": 4,
+  "created": "mix",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674831151411"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674831151411"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d3e555dfab2dc20c0fb621"
+  },
+  "series": "Super Smash T20",
+  "match": "CTB Vs CS",
+  "time": "7:30PM",
+  "invesment": 89,
+  "returns": 315,
+  "numberOfPlayer": 4,
+  "created": "mix",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674831189643"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674831189643"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d50bb20edbcd5d9c51dde3"
+  },
+  "series": "India vs New Zealand T20",
+  "match": "IND Vs NZ",
+  "time": "7:00PM",
+  "invesment": 125,
+  "returns": 0,
+  "numberOfPlayer": 3,
+  "created": "Tel and Friend",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674906546554"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674906546554"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d50bc60edbcd5d9c51dde5"
+  },
+  "series": "India vs New Zealand T20",
+  "match": "IND Vs NZ",
+  "time": "7:00PM",
+  "invesment": 89,
+  "returns": 0,
+  "numberOfPlayer": 4,
+  "created": "Tel and Friend",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674906566762"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674906566762"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d50bd10edbcd5d9c51dde7"
+  },
+  "series": "India vs New Zealand T20",
+  "match": "IND Vs NZ",
+  "time": "7:00PM",
+  "invesment": 89,
+  "returns": 0,
+  "numberOfPlayer": 4,
+  "created": "Tel and Friend",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674906577711"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674906577711"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d55b0532b882299c06ff48"
+  },
+  "series": "Bangledesh league",
+  "match": "CCH Vs SYL",
+  "time": "6:30PM",
+  "invesment": 89,
+  "returns": 0,
+  "numberOfPlayer": 4,
+  "created": "Mix",
+  "comment": "We do not know player performance and batting postion",
+  "date": "28th Jan 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674926853459"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674926853459"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d55b1632b882299c06ff4a"
+  },
+  "series": "Bangledesh league",
+  "match": "CCH Vs SYL",
+  "time": "6:30PM",
+  "invesment": 89,
+  "returns": 0,
+  "numberOfPlayer": 4,
+  "created": "Mix",
+  "comment": "We do not know player performance and batting postion",
+  "date": "28th Jan 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674926870595"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674926870595"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d55b1732b882299c06ff4c"
+  },
+  "series": "Bangledesh league",
+  "match": "CCH Vs SYL",
+  "time": "6:30PM",
+  "invesment": 89,
+  "returns": 0,
+  "numberOfPlayer": 4,
+  "created": "Mix",
+  "comment": "We do not know player performance and batting postion",
+  "date": "28th Jan 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674926871812"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674926871812"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d6a9a6000909f1b1364c2b"
+  },
+  "series": "UAE T20",
+  "match": "DUB Vs VIP",
+  "time": "7:40PM",
+  "invesment": 89,
+  "returns": 0,
+  "numberOfPlayer": 4,
+  "created": "mix",
+  "comment": "luck problem",
+  "date": "Invalid date",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675012518356"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675012518356"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d6aa03000909f1b1364c2d"
+  },
+  "series": "UAE T20",
+  "match": "DUB Vs VIP",
+  "time": "7:40PM",
+  "invesment": 89,
+  "returns": 0,
+  "numberOfPlayer": 4,
+  "created": "mix",
+  "comment": "luck problem",
+  "date": "01 28th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675012611099"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675012611099"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d6aa0d000909f1b1364c2f"
+  },
+  "series": "UAE T20",
+  "match": "DUB Vs VIP",
+  "time": "7:40PM",
+  "invesment": 89,
+  "returns": 0,
+  "numberOfPlayer": 4,
+  "created": "mix",
+  "comment": "luck problem",
+  "date": "01 28th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675012621865"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675012621865"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d6ab2248e2d44647c4af86"
+  },
+  "series": "UAE T20",
+  "match": " VIP Vs EMI",
+  "time": "7:0PM",
+  "invesment": 89,
+  "returns": 0,
+  "numberOfPlayer": 4,
+  "created": "own",
+  "comment": "luck problem",
+  "date": "01 28th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675012898500"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675012898500"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d6ab962666219ec02d3512"
+  },
+  "series": "UAE T20",
+  "match": " VIP Vs EMI",
+  "time": "7:0PM",
+  "invesment": 89,
+  "returns": 0,
+  "numberOfPlayer": 4,
+  "created": "own",
+  "comment": "luck problems",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675013015022"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675013015022"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d6ad30bba7643c29203459"
+  },
+  "series": "India vs New Zealand T20",
+  "match": " IND Vs Nz",
+  "time": "7:0PM",
+  "invesment": 89,
+  "returns": 300,
+  "numberOfPlayer": 4,
+  "created": "own",
+  "comment": "luck problems",
+  "date": "Sunday, Jan 29th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675013424214"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675013424214"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d6ad74bba7643c2920345b"
+  },
+  "series": "India vs New Zealand T20",
+  "match": " IND Vs Nz",
+  "time": "7:0PM",
+  "invesment": 89,
+  "returns": 0,
+  "numberOfPlayer": 4,
+  "created": "own",
+  "comment": "luck problems",
+  "date": "Sunday, Jan 29th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675013492248"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675013492248"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d6adf9bba7643c2920345d"
+  },
+  "series": "SA VS ENG ODI",
+  "match": "SA vs ENG",
+  "time": "1:30PM",
+  "invesment": 89,
+  "returns": 0,
+  "numberOfPlayer": 4,
+  "created": "own",
+  "comment": "luck problems",
+  "date": "Sunday, Jan 29th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675013625707"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675013625707"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d6ae1abba7643c2920345f"
+  },
+  "series": "SA VS ENG ODI",
+  "match": "SA vs ENG",
+  "time": "1:30PM",
+  "invesment": 89,
+  "returns": 300,
+  "numberOfPlayer": 4,
+  "created": "own",
+  "comment": "luck problems",
+  "date": "Sunday, Jan 29th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675013658542"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675013658542"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d6afb0bba7643c29203463"
+  },
+  "series": "Super Smash T20",
+  "match": "OV vs CS",
+  "time": "7:10AM",
+  "invesment": 89,
+  "returns": 0,
+  "numberOfPlayer": 4,
+  "created": "own",
+  "comment": "luck problems",
+  "date": "Sunday, Jan 29th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675014064230"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675014064230"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d6afbcbba7643c29203465"
+  },
+  "series": "Super Smash T20",
+  "match": "OV vs CS",
+  "time": "7:10AM",
+  "invesment": 89,
+  "returns": 300,
+  "numberOfPlayer": 4,
+  "created": "own",
+  "comment": "luck problems",
+  "date": "Sunday, Jan 29th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675014076115"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675014076115"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d6afcbbba7643c29203467"
+  },
+  "series": "Super Smash T20",
+  "match": "OV vs CS",
+  "time": "7:10AM",
+  "invesment": 77,
+  "returns": 0,
+  "numberOfPlayer": 4,
+  "created": "own",
+  "comment": "luck problems",
+  "date": "Sunday, Jan 29th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675014091504"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675014091504"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d6b023bba7643c29203469"
+  },
+  "series": "BBL T20",
+  "match": "REN vs HEA",
+  "time": "1:45PM",
+  "invesment": 27,
+  "returns": 70,
+  "numberOfPlayer": 3,
+  "created": "own",
+  "comment": "luck problems",
+  "date": "Sunday, Jan 29th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675014179095"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675014179095"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d6b03abba7643c2920346b"
+  },
+  "series": "BBL T20",
+  "match": "REN vs HEA",
+  "time": "1:45PM",
+  "invesment": 89,
+  "returns": 300,
+  "numberOfPlayer": 4,
+  "created": "own",
+  "comment": "luck problems",
+  "date": "Sunday, Jan 29th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675014202800"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675014202800"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63de5e5e10d322482879ec50"
+  },
+  "series": "BBL T20",
+  "match": "SCO vs HEA",
+  "time": "2:00PM",
+  "invesment": 89,
+  "returns": 0,
+  "numberOfPlayer": 4,
+  "created": "own",
+  "comment": "luck problems",
+  "date": "Saturday, Feb 4th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675517534441"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675517534441"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63de5e7210d322482879ec52"
+  },
+  "series": "BBL T20",
+  "match": "SCO vs HEA",
+  "time": "2:00PM",
+  "invesment": 89,
+  "returns": 0,
+  "numberOfPlayer": 4,
+  "created": "own",
+  "comment": "luck problems",
+  "date": "Saturday, Feb 4th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675517554683"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675517554683"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63de6091071899746f6ca320"
+  },
+  "series": "UAE T20",
+  "match": "VIP vs EMI",
+  "time": "7:30PM",
+  "invesment": 89,
+  "returns": 0,
+  "numberOfPlayer": 4,
+  "created": "own",
+  "comment": "luck problems",
+  "date": "Sunday, Jan 29th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675518097363"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675518097363"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63de6094071899746f6ca322"
+  },
+  "series": "UAE T20",
+  "match": "VIP vs EMI",
+  "time": "7:30PM",
+  "invesment": 89,
+  "returns": 0,
+  "numberOfPlayer": 4,
+  "created": "own",
+  "comment": "luck problems",
+  "date": "Sunday, Jan 29th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675518100451"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675518100451"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63de617c071899746f6ca324"
+  },
+  "series": "UAE T20",
+  "match": "ABD vs DUB",
+  "time": "7:30PM",
+  "invesment": 89,
+  "returns": 0,
+  "numberOfPlayer": 4,
+  "created": "mix",
+  "comment": "luck problems",
+  "date": "Monday, Jan 30th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675518332515"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675518332515"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63de6186071899746f6ca326"
+  },
+  "series": "UAE T20",
+  "match": "ABD vs DUB",
+  "time": "7:30PM",
+  "invesment": 89,
+  "returns": 0,
+  "numberOfPlayer": 4,
+  "created": "mix",
+  "comment": "luck problems",
+  "date": "Monday, Jan 30th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675518342338"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675518342338"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63de61c7071899746f6ca328"
+  },
+  "series": "UAE T20",
+  "match": "VIP vs DUB",
+  "time": "7:30PM",
+  "invesment": 89,
+  "returns": 300,
+  "numberOfPlayer": 4,
+  "created": "mix",
+  "comment": "luck problems",
+  "date": "Thursday, Feb 2nd 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675518407336"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675518407336"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63de61d2071899746f6ca32a"
+  },
+  "series": "UAE T20",
+  "match": "VIP vs DUB",
+  "time": "7:30PM",
+  "invesment": 89,
+  "returns": 0,
+  "numberOfPlayer": 4,
+  "created": "mix",
+  "comment": "luck problems",
+  "date": "Thursday, Feb 2nd 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675518418025"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675518418025"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63de622f071899746f6ca32c"
+  },
+  "series": "SA T20",
+  "match": "DUR vs CT",
+  "time": "9:00PM",
+  "invesment": 89,
+  "returns": 300,
+  "numberOfPlayer": 4,
+  "created": "mix",
+  "comment": "luck problems",
+  "date": "Thursday, Feb 2nd 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675518511512"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675518511512"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63de6236071899746f6ca32e"
+  },
+  "series": "SA T20",
+  "match": "DUR vs CT",
+  "time": "9:00PM",
+  "invesment": 89,
+  "returns": 300,
+  "numberOfPlayer": 4,
+  "created": "mix",
+  "comment": "luck problems",
+  "date": "Thursday, Feb 2nd 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675518518213"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675518518213"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63de6399071899746f6ca330"
+  },
+  "series": "Women's Super Smash T20",
+  "match": "NB-B vs CH-W",
+  "time": "9:30AM",
+  "invesment": 89,
+  "returns": 0,
+  "numberOfPlayer": 4,
+  "created": "mix",
+  "comment": "luck problems",
+  "date": "Friday, Feb 3rd 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675518873504"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675518873504"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63de639b071899746f6ca332"
+  },
+  "series": "Women's Super Smash T20",
+  "match": "NB-B vs CH-W",
+  "time": "9:30AM",
+  "invesment": 89,
+  "returns": 0,
+  "numberOfPlayer": 4,
+  "created": "mix",
+  "comment": "luck problems",
+  "date": "Friday, Feb 3rd 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675518875167"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675518875167"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63de6419071899746f6ca334"
+  },
+  "series": "UAE T20",
+  "match": "EMI vs ABD",
+  "time": "7:30PM",
+  "invesment": 89,
+  "returns": 0,
+  "numberOfPlayer": 4,
+  "created": "mix",
+  "comment": "luck problems",
+  "date": "Friday, Feb 3rd 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675519001004"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675519001004"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63de641a071899746f6ca336"
+  },
+  "series": "UAE T20",
+  "match": "EMI vs ABD",
+  "time": "7:30PM",
+  "invesment": 89,
+  "returns": 0,
+  "numberOfPlayer": 4,
+  "created": "mix",
+  "comment": "luck problems",
+  "date": "Friday, Feb 3rd 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675519002294"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675519002294"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63de6491071899746f6ca338"
+  },
+  "series": "MCA T10",
+  "match": "NS vs UKM",
+  "time": "11:40AM",
+  "invesment": 89,
+  "returns": 0,
+  "numberOfPlayer": 4,
+  "created": "Tel",
+  "comment": "luck problems",
+  "date": "Saturday, Feb 4th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675519121561"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675519121561"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63de64ed071899746f6ca33a"
+  },
+  "series": "Bangledesh league",
+  "match": "CCH vs COV",
+  "time": "1:00AM",
+  "invesment": 89,
+  "returns": 0,
+  "numberOfPlayer": 4,
+  "created": "Tel",
+  "comment": "luck problems",
+  "date": "Saturday, Feb 4th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675519213542"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675519213542"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63de64ee071899746f6ca33c"
+  },
+  "series": "Bangledesh league",
+  "match": "CCH vs COV",
+  "time": "1:00AM",
+  "invesment": 89,
+  "returns": 0,
+  "numberOfPlayer": 4,
+  "created": "Tel",
+  "comment": "luck problems",
+  "date": "Saturday, Feb 4th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675519214802"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675519214802"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63de64f0071899746f6ca33e"
+  },
+  "series": "Bangledesh league",
+  "match": "CCH vs COV",
+  "time": "1:00AM",
+  "invesment": 89,
+  "returns": 0,
+  "numberOfPlayer": 4,
+  "created": "Tel",
+  "comment": "luck problems",
+  "date": "Saturday, Feb 4th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675519216586"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675519216586"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e3d17f81fc543ff467791a"
+  },
+  "series": "SA T20",
+  "match": "PRE vs CT",
+  "time": "9:00PM",
+  "invesment": 89,
+  "returns": 0,
+  "numberOfPlayer": 4,
+  "created": "own",
+  "comment": "luck problems",
+  "date": "Saturday, Feb 4th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675874687861"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675874687861"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ea618b4bb1168bd76e84b9"
+  },
+  "series": "SA T20",
+  "match": "PRE vs EAC",
+  "time": "5:00PM",
+  "invesment": 17,
+  "returns": 0,
+  "numberOfPlayer": 3,
+  "created": "own",
+  "comment": "luck problems",
+  "date": "Sunday, Feb 12th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1676304779254"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1676304779254"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ea62484bb1168bd76e84bc"
+  },
+  "series": "Women's T20 World Cup",
+  "match": "WI-W vs EN-W",
+  "time": "6:30PM",
+  "invesment": 89,
+  "returns": 0,
+  "numberOfPlayer": 4,
+  "created": "own",
+  "comment": "luck problems",
+  "date": "Saturday, Feb 11th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1676304968878"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1676304968878"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ea624e4bb1168bd76e84be"
+  },
+  "series": "Women's T20 World Cup",
+  "match": "WI-W vs EN-W",
+  "time": "6:30PM",
+  "invesment": 89,
+  "returns": 0,
+  "numberOfPlayer": 4,
+  "created": "own",
+  "comment": "luck problems",
+  "date": "Saturday, Feb 11th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1676304974067"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1676304974067"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64087bf403ae4fe5d93c0e68"
+  },
+  "series": "Super league T20",
+  "match": "MUL vs LAH",
+  "time": "9:00PM",
+  "invesment": 17,
+  "returns": 0,
+  "numberOfPlayer": 3,
+  "created": "own",
+  "comment": "luck problems",
+  "date": "Monday, Feb 13th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678277620290"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1678277620290"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64087c7503ae4fe5d93c0e6a"
+  },
+  "series": "Super league T20",
+  "match": "KAR vs PES",
+  "time": "8:30PM",
+  "invesment": 17,
+  "returns": 0,
+  "numberOfPlayer": 3,
+  "created": "own",
+  "comment": "luck problems",
+  "date": "Tuesday, Feb 14th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678277749061"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1678277749061"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64087ce503ae4fe5d93c0e6c"
+  },
+  "series": "Super league T20",
+  "match": "LAH vs MUL",
+  "time": "7:30PM",
+  "invesment": 15,
+  "returns": 25,
+  "numberOfPlayer": 2,
+  "created": "own",
+  "comment": "luck problems",
+  "date": "Saturday, Mar 4th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678277861281"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1678277861281"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64087d5d03ae4fe5d93c0e6e"
+  },
+  "series": "T20 World Cup",
+  "match": "SA-W vs NZ-W",
+  "time": "10:30PM",
+  "invesment": 15,
+  "returns": 0,
+  "numberOfPlayer": 2,
+  "created": "own",
+  "comment": "luck problems",
+  "date": "Monday, Feb 13th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678277981545"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1678277981545"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64087da403ae4fe5d93c0e70"
+  },
+  "series": "T20 World Cup",
+  "match": "AU-W vs BD-W",
+  "time": "10:30PM",
+  "invesment": 17,
+  "returns": 0,
+  "numberOfPlayer": 3,
+  "created": "own",
+  "comment": "luck problems",
+  "date": "Tuesday, Feb 14th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678278052637"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1678278052637"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64087dec03ae4fe5d93c0e72"
+  },
+  "series": "T20 World Cup",
+  "match": "WI-W vs IR-W",
+  "time": "10:30PM",
+  "invesment": 15,
+  "returns": 27,
+  "numberOfPlayer": 2,
+  "created": "own",
+  "comment": "luck problems",
+  "date": "Friday, Feb 17th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678278124942"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1678278124942"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64087e2703ae4fe5d93c0e74"
+  },
+  "series": "T20 World Cup",
+  "match": "EN-W vs IN-W",
+  "time": "6:30PM",
+  "invesment": 15,
+  "returns": 0,
+  "numberOfPlayer": 2,
+  "created": "own",
+  "comment": "luck problems",
+  "date": "Saturday, Feb 18th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678278183722"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1678278183722"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64087ea203ae4fe5d93c0e76"
+  },
+  "series": "T10 League",
+  "match": "AUM vs VOC",
+  "time": "4:00PM",
+  "invesment": 15,
+  "returns": 25,
+  "numberOfPlayer": 2,
+  "created": "own",
+  "comment": "luck problems",
+  "date": "Saturday, Mar 4th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678278306958"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1678278306958"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64087f4603ae4fe5d93c0e78"
+  },
+  "series": "TATA WPL ",
+  "match": "GUJ-W vs MI-W",
+  "time": "8:00PM",
+  "invesment": 21,
+  "returns": 35,
+  "numberOfPlayer": 2,
+  "created": "own",
+  "comment": "luck problems",
+  "date": "Saturday, Mar 4th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678278470569"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1678278470569"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64087fb903ae4fe5d93c0e7a"
+  },
+  "series": "TATA WPL ",
+  "match": "RCB-W vs DEL-W",
+  "time": "3:30PM",
+  "invesment": 27,
+  "returns": 0,
+  "numberOfPlayer": 3,
+  "created": "own",
+  "comment": "luck problems",
+  "date": "Sunday, Mar 5th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678278585138"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1678278585138"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64087fe803ae4fe5d93c0e7c"
+  },
+  "series": "TATA WPL ",
+  "match": "UP-W vs DEL-W",
+  "time": "7:30PM",
+  "invesment": 27,
+  "returns": 75,
+  "numberOfPlayer": 3,
+  "created": "own",
+  "comment": "luck problems",
+  "date": "Tuesday, Mar 7th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678278632401"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1678278632401"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6408806b03ae4fe5d93c0e7e"
+  },
+  "series": "league-2 One-Day ",
+  "match": "UAE vs PNG",
+  "time": "11:30AM",
+  "invesment": 27,
+  "returns": 0,
+  "numberOfPlayer": 3,
+  "created": "own",
+  "comment": "luck problems",
+  "date": "Sunday, Mar 5th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678278763415"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1678278763415"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "640880b903ae4fe5d93c0e80"
+  },
+  "series": "Australian One-Day ",
+  "match": "WAU vs SAU",
+  "time": "9:35AM",
+  "invesment": 27,
+  "returns": 75,
+  "numberOfPlayer": 3,
+  "created": "own",
+  "comment": "luck problems",
+  "date": "Wednesday, Mar 8th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678278841941"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1678278841941"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6409903f420d8cfa114c85be"
+  },
+  "series": "TATA WPL ",
+  "match": "GUJ-W vs RCB-W",
+  "time": "7:30PM",
+  "invesment": 27,
+  "returns": 0,
+  "numberOfPlayer": 3,
+  "created": "own",
+  "comment": "Go with high creadit and donot take resk",
+  "date": "Wednesday, Mar 8th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678348351321"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1678348351321"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64099094420d8cfa114c85c0"
+  },
+  "series": "Super league T20 ",
+  "match": "PES vs QUE",
+  "time": "7:30PM",
+  "invesment": 27,
+  "returns": 70,
+  "numberOfPlayer": 3,
+  "created": "own",
+  "comment": "Go with high creadit and take resk",
+  "date": "Wednesday, Mar 8th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678348436265"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1678348436265"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427cfb659740db6229a7ad8"
+  },
+  "series": "Super league T20 ",
+  "match": "ISL vs LAH",
+  "time": "7:30PM",
+  "invesment": 27,
+  "returns": 0,
+  "numberOfPlayer": 3,
+  "created": "own",
+  "comment": "Go with high creadit and take resk",
+  "date": "Thursday, Mar 9th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680330678750"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680330678750"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427d03959740db6229a7ada"
+  },
+  "series": "TATA WPL ",
+  "match": "RCB-W vs UP-W",
+  "time": "7:30PM",
+  "invesment": 27,
+  "returns": 75,
+  "numberOfPlayer": 3,
+  "created": "own",
+  "comment": "Go with high creadit and take resk",
+  "date": "Friday, Mar 10th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680330809313"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680330809313"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427d06559740db6229a7adc"
+  },
+  "series": "TATA WPL ",
+  "match": "GUJ-W vs DEL-W",
+  "time": "7:30PM",
+  "invesment": 27,
+  "returns": 75,
+  "numberOfPlayer": 3,
+  "created": "own",
+  "comment": "Go with high creadit and take resk",
+  "date": "Saturday, Mar 11th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680330853677"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680330853677"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427d09259740db6229a7ade"
+  },
+  "series": "TATA WPL ",
+  "match": "RCB-W vs DEL-W",
+  "time": "7:30PM",
+  "invesment": 27,
+  "returns": 0,
+  "numberOfPlayer": 3,
+  "created": "own",
+  "comment": "Go with high creadit and take resk",
+  "date": "Monday, Mar 13th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680330898211"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680330898211"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427d0bd59740db6229a7ae0"
+  },
+  "series": "TATA WPL ",
+  "match": "MI-W vs DEL-W",
+  "time": "7:30PM",
+  "invesment": 27,
+  "returns": 0,
+  "numberOfPlayer": 3,
+  "created": "own",
+  "comment": "Go with high creadit and take resk",
+  "date": "Sunday, Mar 26th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680330941612"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680330941612"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427d0c559740db6229a7ae2"
+  },
+  "series": "TATA WPL ",
+  "match": "MI-W vs DEL-W",
+  "time": "7:30PM",
+  "invesment": 17,
+  "returns": 0,
+  "numberOfPlayer": 3,
+  "created": "own",
+  "comment": "Go with high creadit and take resk",
+  "date": "Sunday, Mar 26th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680330949122"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680330949122"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427d15859740db6229a7ae4"
+  },
+  "series": "Legends T20 ",
+  "match": "INM vs ASL",
+  "time": "8:00PM",
+  "invesment": 27,
+  "returns": 0,
+  "numberOfPlayer": 3,
+  "created": "own",
+  "comment": "Go with high creadit and take resk",
+  "date": "Friday, Mar 10th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680331096743"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680331096743"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427d1bd59740db6229a7ae6"
+  },
+  "series": "Legends T20 ",
+  "match": "GA vs VT",
+  "time": "10:00AM",
+  "invesment": 17,
+  "returns": 47,
+  "numberOfPlayer": 3,
+  "created": "own",
+  "comment": "Go with high creadit and take resk",
+  "date": "Sunday, Mar 26th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680331197386"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680331197386"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427d1be59740db6229a7ae8"
+  },
+  "series": "Legends T20 ",
+  "match": "GA vs VT",
+  "time": "10:00AM",
+  "invesment": 17,
+  "returns": 47,
+  "numberOfPlayer": 3,
+  "created": "own",
+  "comment": "Go with high creadit and take resk",
+  "date": "Sunday, Mar 26th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680331198979"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680331198979"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427d1c059740db6229a7aea"
+  },
+  "series": "Legends T20 ",
+  "match": "GA vs VT",
+  "time": "10:00AM",
+  "invesment": 17,
+  "returns": 47,
+  "numberOfPlayer": 3,
+  "created": "own",
+  "comment": "Go with high creadit and take resk",
+  "date": "Sunday, Mar 26th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680331200600"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680331200600"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427d20059740db6229a7aec"
+  },
+  "series": "Legends T20 ",
+  "match": "GA vs VT",
+  "time": "8:05PM",
+  "invesment": 36,
+  "returns": 60,
+  "numberOfPlayer": 10,
+  "created": "own",
+  "comment": "Go with high creadit and take resk",
+  "date": "Sunday, Mar 26th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680331264848"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680331264848"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427d29559740db6229a7aef"
+  },
+  "series": "SA VS WI T20 ",
+  "match": "SA VS WI",
+  "time": "9:30PM",
+  "invesment": 36,
+  "returns": 60,
+  "numberOfPlayer": 10,
+  "created": "own",
+  "comment": "Go with high creadit and take resk",
+  "date": "Tuesday, Mar 28th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680331413219"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680331413219"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427d29659740db6229a7af1"
+  },
+  "series": "SA VS WI T20 ",
+  "match": "SA VS WI",
+  "time": "9:30PM",
+  "invesment": 36,
+  "returns": 60,
+  "numberOfPlayer": 10,
+  "created": "own",
+  "comment": "Go with high creadit and take resk",
+  "date": "Tuesday, Mar 28th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680331414982"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680331414982"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427d2d959740db6229a7af3"
+  },
+  "series": "SA VS WI T20 ",
+  "match": "SA VS WI",
+  "time": "5:30PM",
+  "invesment": 27,
+  "returns": 75,
+  "numberOfPlayer": 3,
+  "created": "own",
+  "comment": "Go with high creadit and take resk",
+  "date": "Sunday, Mar 26th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680331481558"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680331481558"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427d2e059740db6229a7af5"
+  },
+  "series": "SA VS WI T20 ",
+  "match": "SA VS WI",
+  "time": "5:30PM",
+  "invesment": 27,
+  "returns": 0,
+  "numberOfPlayer": 3,
+  "created": "own",
+  "comment": "Go with high creadit and take resk",
+  "date": "Sunday, Mar 26th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680331488725"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680331488725"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427d2e759740db6229a7af7"
+  },
+  "series": "SA VS WI T20 ",
+  "match": "SA VS WI",
+  "time": "5:30PM",
+  "invesment": 17,
+  "returns": 0,
+  "numberOfPlayer": 3,
+  "created": "own",
+  "comment": "Go with high creadit and take resk",
+  "date": "Sunday, Mar 26th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680331495654"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680331495654"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427d32e59740db6229a7af9"
+  },
+  "series": "SA VS WI ODI ",
+  "match": "SA VS WI",
+  "time": "4:30PM",
+  "invesment": 17,
+  "returns": 0,
+  "numberOfPlayer": 3,
+  "created": "own",
+  "comment": "Go with high creadit and take resk",
+  "date": "Saturday, Mar 18th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680331566485"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680331566485"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427d32f59740db6229a7afb"
+  },
+  "series": "SA VS WI ODI ",
+  "match": "SA VS WI",
+  "time": "4:30PM",
+  "invesment": 17,
+  "returns": 0,
+  "numberOfPlayer": 3,
+  "created": "own",
+  "comment": "Go with high creadit and take resk",
+  "date": "Saturday, Mar 18th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680331567737"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680331567737"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427d33059740db6229a7afd"
+  },
+  "series": "SA VS WI ODI ",
+  "match": "SA VS WI",
+  "time": "4:30PM",
+  "invesment": 17,
+  "returns": 0,
+  "numberOfPlayer": 3,
+  "created": "own",
+  "comment": "Go with high creadit and take resk",
+  "date": "Saturday, Mar 18th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680331568956"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680331568956"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427d33959740db6229a7aff"
+  },
+  "series": "SA VS WI ODI ",
+  "match": "SA VS WI",
+  "time": "4:30PM",
+  "invesment": 27,
+  "returns": 0,
+  "numberOfPlayer": 3,
+  "created": "own",
+  "comment": "Go with high creadit and take resk",
+  "date": "Saturday, Mar 18th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680331577009"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680331577009"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427d33a59740db6229a7b01"
+  },
+  "series": "SA VS WI ODI ",
+  "match": "SA VS WI",
+  "time": "4:30PM",
+  "invesment": 27,
+  "returns": 0,
+  "numberOfPlayer": 3,
+  "created": "own",
+  "comment": "Go with high creadit and take resk",
+  "date": "Saturday, Mar 18th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680331578064"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680331578064"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427d46b59740db6229a7b05"
+  },
+  "series": "Cwc league ODI ",
+  "match": "NEP VS UAE",
+  "time": "9:15PM",
+  "invesment": 27,
+  "returns": 0,
+  "numberOfPlayer": 3,
+  "created": "own",
+  "comment": "Go with high creadit and take resk",
+  "date": "Sunday, Mar 12th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680331883229"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680331883229"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427d4c759740db6229a7b07"
+  },
+  "series": "BAN VS ENG T20 ",
+  "match": "BAN VS ENG",
+  "time": "2:30PM",
+  "invesment": 27,
+  "returns": 0,
+  "numberOfPlayer": 3,
+  "created": "own",
+  "comment": "Go with high creadit and take resk",
+  "date": "Sunday, Mar 12th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680331975462"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680331975462"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427d51c59740db6229a7b09"
+  },
+  "series": "AFG VS PAK T20 ",
+  "match": "BAN VS ENG",
+  "time": "9:30PM",
+  "invesment": 36,
+  "returns": 60,
+  "numberOfPlayer": 10,
+  "created": "own",
+  "comment": "Go with high creadit and take resk",
+  "date": "Monday, Mar 27th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680332060187"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680332060187"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427d51c59740db6229a7b0b"
+  },
+  "series": "AFG VS PAK T20 ",
+  "match": "BAN VS ENG",
+  "time": "9:30PM",
+  "invesment": 36,
+  "returns": 60,
+  "numberOfPlayer": 10,
+  "created": "own",
+  "comment": "Go with high creadit and take resk",
+  "date": "Monday, Mar 27th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680332060938"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680332060938"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427d59b59740db6229a7b0d"
+  },
+  "series": "ICC CWC ODI ",
+  "match": "NAM VS USA",
+  "time": "1:00PM",
+  "invesment": 17,
+  "returns": 0,
+  "numberOfPlayer": 3,
+  "created": "own",
+  "comment": "Go with high creadit and take resk",
+  "date": "Sunday, Mar 26th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680332187692"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680332187692"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427d59d59740db6229a7b0f"
+  },
+  "series": "ICC CWC ODI ",
+  "match": "NAM VS USA",
+  "time": "1:00PM",
+  "invesment": 17,
+  "returns": 0,
+  "numberOfPlayer": 3,
+  "created": "own",
+  "comment": "Go with high creadit and take resk",
+  "date": "Sunday, Mar 26th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680332189019"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680332189019"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427d59e59740db6229a7b11"
+  },
+  "series": "ICC CWC ODI ",
+  "match": "NAM VS USA",
+  "time": "1:00PM",
+  "invesment": 17,
+  "returns": 0,
+  "numberOfPlayer": 3,
+  "created": "own",
+  "comment": "Go with high creadit and take resk",
+  "date": "Sunday, Mar 26th 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680332190347"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680332190347"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427d62559740db6229a7b14"
+  },
+  "series": "TATA IPL",
+  "match": "GT VS CHE",
+  "time": "7:30PM",
+  "invesment": 27,
+  "returns": 70,
+  "numberOfPlayer": 3,
+  "created": "Friend + Tel",
+  "comment": "Go with high creadit and take resk",
+  "date": "Friday, Mar 31st 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680332325247"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680332325247"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427d63559740db6229a7b16"
+  },
+  "series": "TATA IPL",
+  "match": "GT VS CHE",
+  "time": "7:30PM",
+  "invesment": 36,
+  "returns": 60,
+  "numberOfPlayer": 10,
+  "created": "Friend + Tel",
+  "comment": "Go with high creadit and take resk",
+  "date": "Friday, Mar 31st 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680332341693"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680332341693"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427d66459740db6229a7b18"
+  },
+  "series": "TATA IPL",
+  "match": "GT VS CHE",
+  "time": "7:30PM",
+  "invesment": 20,
+  "returns": 33,
+  "numberOfPlayer": 1847745,
+  "created": "Friend + Tel",
+  "comment": "Go with high creadit and take resk",
+  "date": "Friday, Mar 31st 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680332388233"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680332388233"
+    }
+  },
+  "__v": 0
+}]
